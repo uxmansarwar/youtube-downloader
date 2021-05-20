@@ -1,0 +1,29 @@
+{
+    // "git.autofetch": true,
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "onWindowChange",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "editor.wordWrap": "on",
+    "editor.fontSize": 19,
+    "editor.autoIndent": "none",
+    "prettier.useTabs": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "cSpell.ignoreWords": [
+        "address",
+        "email",
+        "insert" 
+    ],
+    "workbench.editor.enablePreview": false,
+    "files.associations": {
+        "*.tpl": "php"
+    },
+}

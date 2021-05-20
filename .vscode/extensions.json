@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "liximomo.sftp",
+        "vscode-icons-team.vscode-icons",
+        "eamodio.gitlens",
+        "sandy081.todotasks",
+        "esbenp.prettier-vscode",
+        "bmewburn.vscode-intelephense-client",
+        "felixfbecker.php-debug",
+        "xabikos.javascriptsnippets",
+        "mhutchie.git-graph",
+        "adrianwilczynski.format-selection-as-html",
+        "mikestead.dotenv",
+        "streetsidesoftware.code-spell-checker",
+        "coenraads.bracket-pair-colorizer-2",
+        "k--kato.intellij-idea-keybindings"
+    ]
+}
